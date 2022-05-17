@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I'm Margaritka Stancheva! 👋
+I'm a student at [SoftUni](https://softuni.bg/) and I'm studying a Web Developer with the programming language C#.
+I'm here to show and enjoy learning new methods and techniques in programming!
 <!--
 **MagiST8/MagiST8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
